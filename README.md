@@ -19,6 +19,7 @@ Stap 1: Start
 
 Stap 2: Bestandsstructuur opzetten 
 - [ ] Je hebt bepaald wat je op de hoofdpagina en de subpagina’s (minimaal 4) wilt laten zien.
+- [ ] je verandert het menu in index.html
 - [ ] Je maakt een html-bestand voor alle pagina’s. De titel en het menu staan erop, maar de inhoud nog niet. 
 - [ ] Je hebt een werkend menu waarmee je naar de verschillende pagina’s kunt gaan, de layout kun je later nog aanpassen en mooi maken. 
 
