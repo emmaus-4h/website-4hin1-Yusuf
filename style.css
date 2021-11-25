@@ -1,3 +1,11 @@
+/* basis instellingen */
+* {
+   border: solid 2px black;
+   overflow: auto;
+   
+   }
+
+
 /* Basislayout */
 
 html, body {
@@ -33,7 +41,15 @@ footer {
     padding-bottom: 10px;
 }
 
+.plaatjeLinks {
+  float: left;
+  width: 200px;
+}
 
+.tekstRechts {
+  float: right;
+  width: 400px;
+  }
 /* specifieke stijlen */
 
 img.zweefLinks {
