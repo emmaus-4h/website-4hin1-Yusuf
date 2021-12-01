@@ -2,7 +2,8 @@
 * {
    border: solid 2px black;
    overflow: auto;
-   
+   box-sizing:border-box;
+   margin:0px;
    }
 
 
@@ -41,14 +42,17 @@ footer {
     padding-bottom: 10px;
 }
 
+.rij {
+  padding: 10px;
+}
 .plaatjeLinks {
   float: left;
-  width: 200px;
+  width: 300px;
 }
 
 .tekstRechts {
   float: right;
-  width: 400px;
+  width: 385px;
   }
 /* specifieke stijlen */
 

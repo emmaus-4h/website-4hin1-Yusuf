@@ -56,7 +56,11 @@ https://www.khanacademy.org/computing/computer-programming/programming
 - w3schools HMTL reference 
 https://www.w3schools.com/tags/default.asp
 - w3schools CSS reference 
-https://www.w3schools.com/cssref/default.asp
+
+
+
+
+
 - w3schools howto's 
 https://www.w3schools.com/howto/default.asp
 - informatie van Emmauscollege over website opdracht
