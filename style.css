@@ -1,3 +1,5 @@
+
++
 /* basis instellingen */
 * {
    border: solid 2px black;
@@ -49,10 +51,14 @@ footer {
   float: left;
   width: 300px;
 }
+.plaatjeLinks1 {
+  float: left;
+  width: 200px;
+}
 
 .tekstRechts {
   float: right;
-  width: 385px;
+  width: 370px;
   }
 /* specifieke stijlen */
 
