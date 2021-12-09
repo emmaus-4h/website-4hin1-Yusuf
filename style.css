@@ -53,6 +53,14 @@ footer {
   float: left;
   width: 300px;
 }
+
+.plaatjeLinksG {
+  float: left;
+  width: 300px;
+  height: 250px;
+}
+
+
 .plaatjeLinks1 {
   float: left;
   width: 300px;
@@ -61,15 +69,28 @@ footer {
   float: Right;
   width: 200px;
 }
+
+.plaatjeLinksH2{
+ float: right;
+ width: 200px
+
+}
+
+.TekstLinksH1{
+ float: left;
+ width: 200px
+
+}
+
 .tekstRechts {
   float: right;
   width: 370px;
   }
   
   .TekstRechts {
-   float: right
-   width: 300px;
-   height: 300px;
+   float: left;
+   width: 450px;
+   height: 200px;
 
   }
 /* specifieke stijlen */
