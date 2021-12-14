@@ -45,49 +45,34 @@ footer {
 .rij {
   padding: 10px;
 }
+/* Home en geschiedenis */
 .plaatjeLinks {
   float: left;
   width: 300px
-}
-.plaatjeLinks {
-  float: left;
-  width: 300px;
-}
-
-.plaatjeLinksG {
-  float: left;
-  width: 300px;
-  height: 250px;
-}
-
-
-.plaatjeLinks1 {
-  float: left;
-  width: 300px;
-}
-.plaatjeLinksH1 {
-  float: Right;
-  width: 200px;
-}
-
-.plaatjeLinksH2{
- float: right;
- width: 200px
-
-}
-
-.TekstLinksH1{
- float: left;
- width: 200px
-
 }
 
 .tekstRechts {
   float: right;
   width: 370px;
   }
-  
-  .TekstRechts {
+
+
+
+.plaatjeLinks1 {
+  float: left;
+  width: 300px;
+  height: 250px;
+}
+
+/* layout pagina horloges en droombaan */
+.plaatjeRechtsH {
+  float: right;
+  width: 200px;
+  height: 200px;
+}
+
+
+.TekstLinks {
    float: left;
    width: 450px;
    height: 200px;
