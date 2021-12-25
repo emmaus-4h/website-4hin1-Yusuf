@@ -80,6 +80,7 @@ footer {
   float: right;
   width: 220px;
   height: 220px;
+  margin: 3px;
 }
 
 .TekstLinksH{
@@ -140,7 +141,6 @@ nav li a:hover {
 nav li a.active {
     background-color: skyblue;
 }
-
 
 
 
