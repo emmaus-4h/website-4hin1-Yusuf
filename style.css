@@ -1,5 +1,5 @@
 /* basis instellingen */
-* {
+/* {
    border: 2px solid black;
    overflow: auto;
    box-sizing:border-box;
@@ -54,24 +54,37 @@ footer {
 .tekstRechts {
   float: right;
   width: 370px;
-  }
-
-
+  } 
 
 .plaatjeLinks1 {
   float: left;
   width: 300px;
-  height: 250px;
+  height: 300px;
+  margin: 5px;
+}
+
+.plaatjeLinks2 {
+  float: left;
+  width: 300px;
+  height: 300px;
+  margin: 4px;
 }
 
 /* layout pagina horloges en droombaan */
 .plaatjeRechtsH {
   float: right;
-  width: 200px;
-  height: 200px;
+  width: 230px;
+  height: 230px;
+}
+.plaatjeRechtsH1 {
+  float: right;
+  width: 220px;
+  height: 220px;
 }
 
-
+.TekstLinksH{
+ float: left;
+}
 .TekstLinks {
    float: left;
    width: 450px;
