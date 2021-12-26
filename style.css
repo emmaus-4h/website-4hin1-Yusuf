@@ -32,7 +32,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: rgb(6, 175, 6);
     text-align: center;
 }
 
@@ -104,7 +104,7 @@ img.zweefLinks {
 }
 
 a {
-    color:skyblue;
+    color:rgb(6, 175, 6);
     text-decoration: none;
  } 
 
@@ -139,7 +139,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: rgb(6, 175, 6);
 }
 
 
