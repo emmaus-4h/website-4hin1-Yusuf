@@ -1,5 +1,5 @@
 /* basis instellingen */
-/* {
+* {
    border: 2px solid black;
    overflow: auto;
    box-sizing:border-box;
@@ -143,3 +143,9 @@ nav li a.active {
 }
 
 
+body {
+ background-image: url("https://cdn.webshopapp.com/shops/303955/files/354836865/2760x1240x1/image.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+}
